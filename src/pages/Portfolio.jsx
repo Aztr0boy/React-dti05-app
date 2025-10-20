@@ -1,6 +1,6 @@
 import NavBar from "../components/NavBar";
 import bike from "../assets/bike.png";
-import learnify from "../assets/learnify.png";
+import learnify from "../assets/Learnify.png";
 import figma from "../assets/figma.png";
 import edtech from "../assets/edtech.png";
 import { FaGithub } from 'react-icons/fa'; 
