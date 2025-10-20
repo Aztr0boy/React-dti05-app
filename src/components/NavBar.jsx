@@ -8,7 +8,7 @@ export default function NavBar({hc , ac, pc, cc}) {
       <Link style={ac} to="/about">About</Link>
       <Link style={pc}to="/portfolio">Portfolio</Link>
       <Link stule={cc} to="/contract" className="border border-white py-2 px-6">
-      Come Tell me your Tales
+      Let's Talk
       </Link>
     </div>
   )
